@@ -58,7 +58,7 @@
 }
 
 .buttons-container a.study {
-  background-color: var(--color-primary-lighter);
+  background-color: var(--color-text-in-primary);
 }
 
 .buttons-container a.give-classes {
@@ -78,6 +78,7 @@
 }
 
 .total-connections {
+  color: var(--color-text-secondary);
   font-size: 1.8rem;
   display: flex;
   align-items: center;
